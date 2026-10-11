@@ -1,0 +1,272 @@
+{"fid": "F0001", "type": "MADE_BY", "subj": "ent:Product:0028", "obj": "ent:Company:0000", "props": {"date": "2024-01-05"}, "doc_id": "docB-0000"}
+{"fid": "F0002", "type": "MADE_BY", "subj": "ent:Product:0029", "obj": "ent:Company:0001", "props": {"date": "2024-02-05"}, "doc_id": "docB-0001"}
+{"fid": "F0003", "type": "MADE_BY", "subj": "ent:Product:0030", "obj": "ent:Company:0002", "props": {"date": "2024-03-05"}, "doc_id": "docB-0002"}
+{"fid": "F0004", "type": "MADE_BY", "subj": "ent:Product:0031", "obj": "ent:Company:0000", "props": {"date": "2024-04-05"}, "doc_id": "docB-0003"}
+{"fid": "F0005", "type": "MADE_BY", "subj": "ent:Product:0032", "obj": "ent:Company:0001", "props": {"date": "2024-05-05"}, "doc_id": "docB-0004"}
+{"fid": "F0006", "type": "MADE_BY", "subj": "ent:Product:0033", "obj": "ent:Company:0002", "props": {"date": "2024-06-05"}, "doc_id": "docB-0005"}
+{"fid": "F0007", "type": "MADE_BY", "subj": "ent:Product:0034", "obj": "ent:Company:0000", "props": {"date": "2024-07-05"}, "doc_id": "docB-0006"}
+{"fid": "F0008", "type": "MADE_BY", "subj": "ent:Product:0035", "obj": "ent:Company:0001", "props": {"date": "2024-08-05"}, "doc_id": "docB-0007"}
+{"fid": "F0009", "type": "SOURCES", "subj": "ent:Company:0018", "obj": "ent:Material:0072", "props": {"date": "2023-01-10"}, "doc_id": "docB-0008"}
+{"fid": "F0010", "type": "SOURCES", "subj": "ent:Company:0022", "obj": "ent:Material:0072", "props": {"date": "2024-01-20"}, "doc_id": "docB-0009"}
+{"fid": "F0011", "type": "SOURCES", "subj": "ent:Company:0019", "obj": "ent:Material:0073", "props": {"date": "2023-02-10"}, "doc_id": "docB-0010"}
+{"fid": "F0012", "type": "SOURCES", "subj": "ent:Company:0020", "obj": "ent:Material:0074", "props": {"date": "2023-03-10"}, "doc_id": "docB-0011"}
+{"fid": "F0013", "type": "SOURCES", "subj": "ent:Company:0021", "obj": "ent:Material:0075", "props": {"date": "2023-04-10"}, "doc_id": "docB-0012"}
+{"fid": "F0014", "type": "SOURCES", "subj": "ent:Company:0025", "obj": "ent:Material:0075", "props": {"date": "2024-04-20"}, "doc_id": "docB-0013"}
+{"fid": "F0015", "type": "SOURCES", "subj": "ent:Company:0022", "obj": "ent:Material:0076", "props": {"date": "2023-05-10"}, "doc_id": "docB-0014"}
+{"fid": "F0016", "type": "SOURCES", "subj": "ent:Company:0023", "obj": "ent:Material:0077", "props": {"date": "2023-06-10"}, "doc_id": "docB-0015"}
+{"fid": "F0017", "type": "MADE_WITH", "subj": "ent:Part:0036", "obj": "ent:Material:0072", "props": {"date": "2023-01-15"}, "doc_id": "docB-0016"}
+{"fid": "F0018", "type": "MADE_WITH", "subj": "ent:Part:0037", "obj": "ent:Material:0073", "props": {"date": "2023-02-15"}, "doc_id": "docB-0017"}
+{"fid": "F0019", "type": "MADE_WITH", "subj": "ent:Part:0038", "obj": "ent:Material:0074", "props": {"date": "2023-03-15"}, "doc_id": "docB-0018"}
+{"fid": "F0020", "type": "MADE_WITH", "subj": "ent:Part:0039", "obj": "ent:Material:0075", "props": {"date": "2023-04-15"}, "doc_id": "docB-0019"}
+{"fid": "F0021", "type": "MADE_WITH", "subj": "ent:Part:0040", "obj": "ent:Material:0076", "props": {"date": "2023-05-15"}, "doc_id": "docB-0020"}
+{"fid": "F0022", "type": "MADE_WITH", "subj": "ent:Part:0041", "obj": "ent:Material:0077", "props": {"date": "2023-06-15"}, "doc_id": "docB-0021"}
+{"fid": "F0023", "type": "MADE_WITH", "subj": "ent:Part:0042", "obj": "ent:Material:0072", "props": {"date": "2023-07-15"}, "doc_id": "docB-0022"}
+{"fid": "F0024", "type": "MADE_WITH", "subj": "ent:Part:0043", "obj": "ent:Material:0073", "props": {"date": "2023-08-15"}, "doc_id": "docB-0023"}
+{"fid": "F0025", "type": "MADE_WITH", "subj": "ent:Part:0044", "obj": "ent:Material:0074", "props": {"date": "2023-09-15"}, "doc_id": "docB-0024"}
+{"fid": "F0026", "type": "MADE_WITH", "subj": "ent:Part:0045", "obj": "ent:Material:0075", "props": {"date": "2023-10-15"}, "doc_id": "docB-0025"}
+{"fid": "F0027", "type": "MADE_WITH", "subj": "ent:Part:0046", "obj": "ent:Material:0076", "props": {"date": "2023-11-15"}, "doc_id": "docB-0026"}
+{"fid": "F0028", "type": "MADE_WITH", "subj": "ent:Part:0047", "obj": "ent:Material:0077", "props": {"date": "2023-12-15"}, "doc_id": "docB-0027"}
+{"fid": "F0029", "type": "MADE_WITH", "subj": "ent:Part:0048", "obj": "ent:Material:0072", "props": {"date": "2023-01-15"}, "doc_id": "docB-0028"}
+{"fid": "F0030", "type": "MADE_WITH", "subj": "ent:Part:0049", "obj": "ent:Material:0073", "props": {"date": "2023-02-15"}, "doc_id": "docB-0029"}
+{"fid": "F0031", "type": "MADE_WITH", "subj": "ent:Part:0050", "obj": "ent:Material:0074", "props": {"date": "2023-03-15"}, "doc_id": "docB-0030"}
+{"fid": "F0032", "type": "MADE_WITH", "subj": "ent:Part:0051", "obj": "ent:Material:0075", "props": {"date": "2023-04-15"}, "doc_id": "docB-0031"}
+{"fid": "F0033", "type": "MADE_WITH", "subj": "ent:Part:0052", "obj": "ent:Material:0076", "props": {"date": "2023-05-15"}, "doc_id": "docB-0032"}
+{"fid": "F0034", "type": "MADE_WITH", "subj": "ent:Part:0053", "obj": "ent:Material:0077", "props": {"date": "2023-06-15"}, "doc_id": "docB-0033"}
+{"fid": "F0035", "type": "MADE_WITH", "subj": "ent:Part:0054", "obj": "ent:Material:0072", "props": {"date": "2023-07-15"}, "doc_id": "docB-0034"}
+{"fid": "F0036", "type": "MADE_WITH", "subj": "ent:Part:0055", "obj": "ent:Material:0073", "props": {"date": "2023-08-15"}, "doc_id": "docB-0035"}
+{"fid": "F0037", "type": "MADE_WITH", "subj": "ent:Part:0056", "obj": "ent:Material:0074", "props": {"date": "2023-09-15"}, "doc_id": "docB-0036"}
+{"fid": "F0038", "type": "MADE_WITH", "subj": "ent:Part:0057", "obj": "ent:Material:0075", "props": {"date": "2023-10-15"}, "doc_id": "docB-0037"}
+{"fid": "F0039", "type": "MADE_WITH", "subj": "ent:Part:0058", "obj": "ent:Material:0076", "props": {"date": "2023-11-15"}, "doc_id": "docB-0038"}
+{"fid": "F0040", "type": "MADE_WITH", "subj": "ent:Part:0059", "obj": "ent:Material:0077", "props": {"date": "2023-12-15"}, "doc_id": "docB-0039"}
+{"fid": "F0041", "type": "MADE_WITH", "subj": "ent:Part:0060", "obj": "ent:Material:0072", "props": {"date": "2023-01-15"}, "doc_id": "docB-0040"}
+{"fid": "F0042", "type": "MADE_WITH", "subj": "ent:Part:0061", "obj": "ent:Material:0073", "props": {"date": "2023-02-15"}, "doc_id": "docB-0041"}
+{"fid": "F0043", "type": "MADE_WITH", "subj": "ent:Part:0062", "obj": "ent:Material:0074", "props": {"date": "2023-03-15"}, "doc_id": "docB-0042"}
+{"fid": "F0044", "type": "MADE_WITH", "subj": "ent:Part:0063", "obj": "ent:Material:0075", "props": {"date": "2023-04-15"}, "doc_id": "docB-0043"}
+{"fid": "F0045", "type": "MADE_WITH", "subj": "ent:Part:0064", "obj": "ent:Material:0076", "props": {"date": "2023-05-15"}, "doc_id": "docB-0044"}
+{"fid": "F0046", "type": "MADE_WITH", "subj": "ent:Part:0065", "obj": "ent:Material:0077", "props": {"date": "2023-06-15"}, "doc_id": "docB-0045"}
+{"fid": "F0047", "type": "MADE_WITH", "subj": "ent:Part:0066", "obj": "ent:Material:0072", "props": {"date": "2023-07-15"}, "doc_id": "docB-0046"}
+{"fid": "F0048", "type": "MADE_WITH", "subj": "ent:Part:0067", "obj": "ent:Material:0073", "props": {"date": "2023-08-15"}, "doc_id": "docB-0047"}
+{"fid": "F0049", "type": "MADE_WITH", "subj": "ent:Part:0068", "obj": "ent:Material:0074", "props": {"date": "2023-09-15"}, "doc_id": "docB-0048"}
+{"fid": "F0050", "type": "MADE_WITH", "subj": "ent:Part:0069", "obj": "ent:Material:0075", "props": {"date": "2023-10-15"}, "doc_id": "docB-0049"}
+{"fid": "F0051", "type": "MADE_WITH", "subj": "ent:Part:0070", "obj": "ent:Material:0076", "props": {"date": "2023-11-15"}, "doc_id": "docB-0050"}
+{"fid": "F0052", "type": "MADE_WITH", "subj": "ent:Part:0071", "obj": "ent:Material:0077", "props": {"date": "2023-12-15"}, "doc_id": "docB-0051"}
+{"fid": "F0053", "type": "SUPPLIES", "subj": "ent:Company:0003", "obj": "ent:Part:0036", "props": {"since": "2023-01-01", "plant": "3공장"}, "doc_id": "docB-0052"}
+{"fid": "F0054", "type": "SUPPLIES", "subj": "ent:Company:0008", "obj": "ent:Part:0036", "props": {"since": "2025-01-01", "plant": "1공장"}, "doc_id": "docB-0053"}
+{"fid": "F0055", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Part:0037", "props": {"since": "2023-02-01", "plant": "1공장"}, "doc_id": "docB-0054"}
+{"fid": "F0056", "type": "SUPPLIES", "subj": "ent:Company:0009", "obj": "ent:Part:0037", "props": {"since": "2025-02-01", "plant": "3공장"}, "doc_id": "docB-0055"}
+{"fid": "F0057", "type": "SUPPLIES", "subj": "ent:Company:0005", "obj": "ent:Part:0038", "props": {"since": "2023-03-01", "plant": "2공장"}, "doc_id": "docB-0056"}
+{"fid": "F0058", "type": "SUPPLIES", "subj": "ent:Company:0010", "obj": "ent:Part:0038", "props": {"since": "2025-03-01", "plant": "1공장"}, "doc_id": "docB-0057"}
+{"fid": "F0059", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Part:0039", "props": {"since": "2023-04-01", "plant": "1공장"}, "doc_id": "docB-0058"}
+{"fid": "F0060", "type": "SUPPLIES", "subj": "ent:Company:0007", "obj": "ent:Part:0040", "props": {"since": "2023-05-01", "plant": "1공장"}, "doc_id": "docB-0059"}
+{"fid": "F0061", "type": "SUPPLIES", "subj": "ent:Company:0008", "obj": "ent:Part:0041", "props": {"since": "2023-06-01", "plant": "3공장"}, "doc_id": "docB-0060"}
+{"fid": "F0062", "type": "SUPPLIES", "subj": "ent:Company:0009", "obj": "ent:Part:0042", "props": {"since": "2023-07-01", "plant": "1공장"}, "doc_id": "docB-0061"}
+{"fid": "F0063", "type": "SUPPLIES", "subj": "ent:Company:0010", "obj": "ent:Part:0043", "props": {"since": "2023-08-01", "plant": "3공장"}, "doc_id": "docB-0062"}
+{"fid": "F0064", "type": "SUPPLIES", "subj": "ent:Company:0011", "obj": "ent:Part:0044", "props": {"since": "2023-09-01", "plant": "3공장"}, "doc_id": "docB-0063"}
+{"fid": "F0065", "type": "SUPPLIES", "subj": "ent:Company:0012", "obj": "ent:Part:0045", "props": {"since": "2023-10-01", "plant": "3공장"}, "doc_id": "docB-0064"}
+{"fid": "F0066", "type": "SUPPLIES", "subj": "ent:Company:0013", "obj": "ent:Part:0046", "props": {"since": "2023-11-01", "plant": "1공장"}, "doc_id": "docB-0065"}
+{"fid": "F0067", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Part:0046", "props": {"since": "2025-11-01", "plant": "3공장"}, "doc_id": "docB-0066"}
+{"fid": "F0068", "type": "SUPPLIES", "subj": "ent:Company:0014", "obj": "ent:Part:0047", "props": {"since": "2023-12-01", "plant": "2공장"}, "doc_id": "docB-0067"}
+{"fid": "F0069", "type": "SUPPLIES", "subj": "ent:Company:0007", "obj": "ent:Part:0047", "props": {"since": "2025-12-01", "plant": "1공장"}, "doc_id": "docB-0068"}
+{"fid": "F0070", "type": "SUPPLIES", "subj": "ent:Company:0003", "obj": "ent:Part:0048", "props": {"since": "2023-01-01", "plant": "1공장"}, "doc_id": "docB-0069"}
+{"fid": "F0071", "type": "SUPPLIES", "subj": "ent:Company:0008", "obj": "ent:Part:0048", "props": {"since": "2025-01-01", "plant": "1공장"}, "doc_id": "docB-0070"}
+{"fid": "F0072", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Part:0049", "props": {"since": "2023-02-01", "plant": "1공장"}, "doc_id": "docB-0071"}
+{"fid": "F0073", "type": "SUPPLIES", "subj": "ent:Company:0005", "obj": "ent:Part:0050", "props": {"since": "2023-03-01", "plant": "1공장"}, "doc_id": "docB-0072"}
+{"fid": "F0074", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Part:0051", "props": {"since": "2023-04-01", "plant": "3공장"}, "doc_id": "docB-0073"}
+{"fid": "F0075", "type": "SUPPLIES", "subj": "ent:Company:0007", "obj": "ent:Part:0052", "props": {"since": "2023-05-01", "plant": "3공장"}, "doc_id": "docB-0074"}
+{"fid": "F0076", "type": "SUPPLIES", "subj": "ent:Company:0008", "obj": "ent:Part:0053", "props": {"since": "2023-06-01", "plant": "1공장"}, "doc_id": "docB-0075"}
+{"fid": "F0077", "type": "SUPPLIES", "subj": "ent:Company:0009", "obj": "ent:Part:0054", "props": {"since": "2023-07-01", "plant": "3공장"}, "doc_id": "docB-0076"}
+{"fid": "F0078", "type": "SUPPLIES", "subj": "ent:Company:0010", "obj": "ent:Part:0055", "props": {"since": "2023-08-01", "plant": "1공장"}, "doc_id": "docB-0077"}
+{"fid": "F0079", "type": "SUPPLIES", "subj": "ent:Company:0011", "obj": "ent:Part:0056", "props": {"since": "2023-09-01", "plant": "3공장"}, "doc_id": "docB-0078"}
+{"fid": "F0080", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Part:0056", "props": {"since": "2025-09-01", "plant": "3공장"}, "doc_id": "docB-0079"}
+{"fid": "F0081", "type": "SUPPLIES", "subj": "ent:Company:0012", "obj": "ent:Part:0057", "props": {"since": "2023-10-01", "plant": "3공장"}, "doc_id": "docB-0080"}
+{"fid": "F0082", "type": "SUPPLIES", "subj": "ent:Company:0005", "obj": "ent:Part:0057", "props": {"since": "2025-10-01", "plant": "3공장"}, "doc_id": "docB-0081"}
+{"fid": "F0083", "type": "SUPPLIES", "subj": "ent:Company:0013", "obj": "ent:Part:0058", "props": {"since": "2023-11-01", "plant": "2공장"}, "doc_id": "docB-0082"}
+{"fid": "F0084", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Part:0058", "props": {"since": "2025-11-01", "plant": "1공장"}, "doc_id": "docB-0083"}
+{"fid": "F0085", "type": "SUPPLIES", "subj": "ent:Company:0014", "obj": "ent:Part:0059", "props": {"since": "2023-12-01", "plant": "2공장"}, "doc_id": "docB-0084"}
+{"fid": "F0086", "type": "SUPPLIES", "subj": "ent:Company:0003", "obj": "ent:Part:0060", "props": {"since": "2023-01-01", "plant": "3공장"}, "doc_id": "docB-0085"}
+{"fid": "F0087", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Part:0061", "props": {"since": "2023-02-01", "plant": "2공장"}, "doc_id": "docB-0086"}
+{"fid": "F0088", "type": "SUPPLIES", "subj": "ent:Company:0005", "obj": "ent:Part:0062", "props": {"since": "2023-03-01", "plant": "1공장"}, "doc_id": "docB-0087"}
+{"fid": "F0089", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Part:0063", "props": {"since": "2023-04-01", "plant": "1공장"}, "doc_id": "docB-0088"}
+{"fid": "F0090", "type": "SUPPLIES", "subj": "ent:Company:0007", "obj": "ent:Part:0064", "props": {"since": "2023-05-01", "plant": "3공장"}, "doc_id": "docB-0089"}
+{"fid": "F0091", "type": "SUPPLIES", "subj": "ent:Company:0008", "obj": "ent:Part:0065", "props": {"since": "2023-06-01", "plant": "2공장"}, "doc_id": "docB-0090"}
+{"fid": "F0092", "type": "SUPPLIES", "subj": "ent:Company:0009", "obj": "ent:Part:0066", "props": {"since": "2023-07-01", "plant": "2공장"}, "doc_id": "docB-0091"}
+{"fid": "F0093", "type": "SUPPLIES", "subj": "ent:Company:0014", "obj": "ent:Part:0066", "props": {"since": "2025-07-01", "plant": "2공장"}, "doc_id": "docB-0092"}
+{"fid": "F0094", "type": "SUPPLIES", "subj": "ent:Company:0010", "obj": "ent:Part:0067", "props": {"since": "2023-08-01", "plant": "1공장"}, "doc_id": "docB-0093"}
+{"fid": "F0095", "type": "SUPPLIES", "subj": "ent:Company:0003", "obj": "ent:Part:0067", "props": {"since": "2025-08-01", "plant": "1공장"}, "doc_id": "docB-0094"}
+{"fid": "F0096", "type": "SUPPLIES", "subj": "ent:Company:0011", "obj": "ent:Part:0068", "props": {"since": "2023-09-01", "plant": "2공장"}, "doc_id": "docB-0095"}
+{"fid": "F0097", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Part:0068", "props": {"since": "2025-09-01", "plant": "1공장"}, "doc_id": "docB-0096"}
+{"fid": "F0098", "type": "SUPPLIES", "subj": "ent:Company:0012", "obj": "ent:Part:0069", "props": {"since": "2023-10-01", "plant": "1공장"}, "doc_id": "docB-0097"}
+{"fid": "F0099", "type": "SUPPLIES", "subj": "ent:Company:0013", "obj": "ent:Part:0070", "props": {"since": "2023-11-01", "plant": "2공장"}, "doc_id": "docB-0098"}
+{"fid": "F0100", "type": "SUPPLIES", "subj": "ent:Company:0014", "obj": "ent:Part:0071", "props": {"since": "2023-12-01", "plant": "1공장"}, "doc_id": "docB-0099"}
+{"fid": "F0101", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0036", "props": {"date": "2024-01-08"}, "doc_id": "docB-0100"}
+{"fid": "F0102", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0043", "props": {"date": "2024-02-08"}, "doc_id": "docB-0101"}
+{"fid": "F0103", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0050", "props": {"date": "2024-03-08"}, "doc_id": "docB-0102"}
+{"fid": "F0104", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0057", "props": {"date": "2024-04-08"}, "doc_id": "docB-0103"}
+{"fid": "F0105", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0064", "props": {"date": "2024-05-08"}, "doc_id": "docB-0104"}
+{"fid": "F0106", "type": "USES", "subj": "ent:Product:0028", "obj": "ent:Part:0071", "props": {"date": "2024-06-08"}, "doc_id": "docB-0105"}
+{"fid": "F0107", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0037", "props": {"date": "2024-02-08"}, "doc_id": "docB-0106"}
+{"fid": "F0108", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0044", "props": {"date": "2024-03-08"}, "doc_id": "docB-0107"}
+{"fid": "F0109", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0051", "props": {"date": "2024-04-08"}, "doc_id": "docB-0108"}
+{"fid": "F0110", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0058", "props": {"date": "2024-05-08"}, "doc_id": "docB-0109"}
+{"fid": "F0111", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0065", "props": {"date": "2024-06-08"}, "doc_id": "docB-0110"}
+{"fid": "F0112", "type": "USES", "subj": "ent:Product:0029", "obj": "ent:Part:0066", "props": {"date": "2024-07-08"}, "doc_id": "docB-0111"}
+{"fid": "F0113", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0038", "props": {"date": "2024-03-08"}, "doc_id": "docB-0112"}
+{"fid": "F0114", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0045", "props": {"date": "2024-04-08"}, "doc_id": "docB-0113"}
+{"fid": "F0115", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0052", "props": {"date": "2024-05-08"}, "doc_id": "docB-0114"}
+{"fid": "F0116", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0059", "props": {"date": "2024-06-08"}, "doc_id": "docB-0115"}
+{"fid": "F0117", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0060", "props": {"date": "2024-07-08"}, "doc_id": "docB-0116"}
+{"fid": "F0118", "type": "USES", "subj": "ent:Product:0030", "obj": "ent:Part:0067", "props": {"date": "2024-08-08"}, "doc_id": "docB-0117"}
+{"fid": "F0119", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0039", "props": {"date": "2024-04-08"}, "doc_id": "docB-0118"}
+{"fid": "F0120", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0046", "props": {"date": "2024-05-08"}, "doc_id": "docB-0119"}
+{"fid": "F0121", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0053", "props": {"date": "2024-06-08"}, "doc_id": "docB-0120"}
+{"fid": "F0122", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0054", "props": {"date": "2024-07-08"}, "doc_id": "docB-0121"}
+{"fid": "F0123", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0061", "props": {"date": "2024-08-08"}, "doc_id": "docB-0122"}
+{"fid": "F0124", "type": "USES", "subj": "ent:Product:0031", "obj": "ent:Part:0068", "props": {"date": "2024-09-08"}, "doc_id": "docB-0123"}
+{"fid": "F0125", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0040", "props": {"date": "2024-05-08"}, "doc_id": "docB-0124"}
+{"fid": "F0126", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0047", "props": {"date": "2024-06-08"}, "doc_id": "docB-0125"}
+{"fid": "F0127", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0048", "props": {"date": "2024-07-08"}, "doc_id": "docB-0126"}
+{"fid": "F0128", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0055", "props": {"date": "2024-08-08"}, "doc_id": "docB-0127"}
+{"fid": "F0129", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0062", "props": {"date": "2024-09-08"}, "doc_id": "docB-0128"}
+{"fid": "F0130", "type": "USES", "subj": "ent:Product:0032", "obj": "ent:Part:0069", "props": {"date": "2024-10-08"}, "doc_id": "docB-0129"}
+{"fid": "F0131", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0041", "props": {"date": "2024-06-08"}, "doc_id": "docB-0130"}
+{"fid": "F0132", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0042", "props": {"date": "2024-07-08"}, "doc_id": "docB-0131"}
+{"fid": "F0133", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0049", "props": {"date": "2024-08-08"}, "doc_id": "docB-0132"}
+{"fid": "F0134", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0056", "props": {"date": "2024-09-08"}, "doc_id": "docB-0133"}
+{"fid": "F0135", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0063", "props": {"date": "2024-10-08"}, "doc_id": "docB-0134"}
+{"fid": "F0136", "type": "USES", "subj": "ent:Product:0033", "obj": "ent:Part:0070", "props": {"date": "2024-11-08"}, "doc_id": "docB-0135"}
+{"fid": "F0137", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0036", "props": {"date": "2024-07-08"}, "doc_id": "docB-0136"}
+{"fid": "F0138", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0043", "props": {"date": "2024-08-08"}, "doc_id": "docB-0137"}
+{"fid": "F0139", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0050", "props": {"date": "2024-09-08"}, "doc_id": "docB-0138"}
+{"fid": "F0140", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0057", "props": {"date": "2024-10-08"}, "doc_id": "docB-0139"}
+{"fid": "F0141", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0064", "props": {"date": "2024-11-08"}, "doc_id": "docB-0140"}
+{"fid": "F0142", "type": "USES", "subj": "ent:Product:0034", "obj": "ent:Part:0071", "props": {"date": "2024-12-08"}, "doc_id": "docB-0141"}
+{"fid": "F0143", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0037", "props": {"date": "2024-08-08"}, "doc_id": "docB-0142"}
+{"fid": "F0144", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0044", "props": {"date": "2024-09-08"}, "doc_id": "docB-0143"}
+{"fid": "F0145", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0051", "props": {"date": "2024-10-08"}, "doc_id": "docB-0144"}
+{"fid": "F0146", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0058", "props": {"date": "2024-11-08"}, "doc_id": "docB-0145"}
+{"fid": "F0147", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0065", "props": {"date": "2024-12-08"}, "doc_id": "docB-0146"}
+{"fid": "F0148", "type": "USES", "subj": "ent:Product:0035", "obj": "ent:Part:0066", "props": {"date": "2024-01-08"}, "doc_id": "docB-0147"}
+{"fid": "F0149", "type": "CERTIFIED", "subj": "ent:Part:0036", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-01-12"}, "doc_id": "docB-0148"}
+{"fid": "F0150", "type": "CERTIFIED", "subj": "ent:Part:0038", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-03-12"}, "doc_id": "docB-0149"}
+{"fid": "F0151", "type": "CERTIFIED", "subj": "ent:Part:0040", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-05-12"}, "doc_id": "docB-0150"}
+{"fid": "F0152", "type": "CERTIFIED", "subj": "ent:Part:0042", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-07-12"}, "doc_id": "docB-0151"}
+{"fid": "F0153", "type": "CERTIFIED", "subj": "ent:Part:0044", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-09-12"}, "doc_id": "docB-0152"}
+{"fid": "F0154", "type": "CERTIFIED", "subj": "ent:Part:0046", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-11-12"}, "doc_id": "docB-0153"}
+{"fid": "F0155", "type": "CERTIFIED", "subj": "ent:Part:0048", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-01-12"}, "doc_id": "docB-0154"}
+{"fid": "F0156", "type": "CERTIFIED", "subj": "ent:Part:0050", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-03-12"}, "doc_id": "docB-0155"}
+{"fid": "F0157", "type": "CERTIFIED", "subj": "ent:Part:0052", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-05-12"}, "doc_id": "docB-0156"}
+{"fid": "F0158", "type": "CERTIFIED", "subj": "ent:Part:0054", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-07-12"}, "doc_id": "docB-0157"}
+{"fid": "F0159", "type": "CERTIFIED", "subj": "ent:Part:0056", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-09-12"}, "doc_id": "docB-0158"}
+{"fid": "F0160", "type": "CERTIFIED", "subj": "ent:Part:0058", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-11-12"}, "doc_id": "docB-0159"}
+{"fid": "F0161", "type": "CERTIFIED", "subj": "ent:Part:0060", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-01-12"}, "doc_id": "docB-0160"}
+{"fid": "F0162", "type": "CERTIFIED", "subj": "ent:Part:0062", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-03-12"}, "doc_id": "docB-0161"}
+{"fid": "F0163", "type": "CERTIFIED", "subj": "ent:Part:0064", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-05-12"}, "doc_id": "docB-0162"}
+{"fid": "F0164", "type": "CERTIFIED", "subj": "ent:Part:0066", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-07-12"}, "doc_id": "docB-0163"}
+{"fid": "F0165", "type": "CERTIFIED", "subj": "ent:Part:0068", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2024-09-12"}, "doc_id": "docB-0164"}
+{"fid": "F0166", "type": "CERTIFIED", "subj": "ent:Part:0070", "obj": "ent:CertBody:0026", "props": {"cert": "UL 인증", "date": "2024-11-12"}, "doc_id": "docB-0165"}
+{"fid": "F0167", "type": "WORKS_AT", "subj": "ent:Person:0078", "obj": "ent:Company:0003", "props": {"frm": "2022-01-01", "role": "품질 담당"}, "doc_id": "docB-0166"}
+{"fid": "F0168", "type": "MOVED_TO", "subj": "ent:Person:0078", "obj": "ent:Company:0010", "props": {"date": "2025-01-01", "prev": "ent:Company:0003"}, "doc_id": "docB-0167"}
+{"fid": "F0169", "type": "WORKS_AT", "subj": "ent:Person:0079", "obj": "ent:Company:0004", "props": {"frm": "2022-02-01", "role": "영업 담당"}, "doc_id": "docB-0168"}
+{"fid": "F0170", "type": "MOVED_TO", "subj": "ent:Person:0079", "obj": "ent:Company:0011", "props": {"date": "2025-02-01", "prev": "ent:Company:0004"}, "doc_id": "docB-0169"}
+{"fid": "F0171", "type": "WORKS_AT", "subj": "ent:Person:0080", "obj": "ent:Company:0005", "props": {"frm": "2022-03-01", "role": "품질 담당"}, "doc_id": "docB-0170"}
+{"fid": "F0172", "type": "MOVED_TO", "subj": "ent:Person:0080", "obj": "ent:Company:0012", "props": {"date": "2025-03-01", "prev": "ent:Company:0005"}, "doc_id": "docB-0171"}
+{"fid": "F0173", "type": "WORKS_AT", "subj": "ent:Person:0081", "obj": "ent:Company:0006", "props": {"frm": "2022-04-01", "role": "영업 담당"}, "doc_id": "docB-0172"}
+{"fid": "F0174", "type": "MOVED_TO", "subj": "ent:Person:0081", "obj": "ent:Company:0013", "props": {"date": "2025-04-01", "prev": "ent:Company:0006"}, "doc_id": "docB-0173"}
+{"fid": "F0175", "type": "WORKS_AT", "subj": "ent:Person:0082", "obj": "ent:Company:0007", "props": {"frm": "2022-05-01", "role": "품질 담당"}, "doc_id": "docB-0174"}
+{"fid": "F0176", "type": "MOVED_TO", "subj": "ent:Person:0082", "obj": "ent:Company:0014", "props": {"date": "2025-05-01", "prev": "ent:Company:0007"}, "doc_id": "docB-0175"}
+{"fid": "F0177", "type": "WORKS_AT", "subj": "ent:Person:0083", "obj": "ent:Company:0008", "props": {"frm": "2022-06-01", "role": "영업 담당"}, "doc_id": "docB-0176"}
+{"fid": "F0178", "type": "MOVED_TO", "subj": "ent:Person:0083", "obj": "ent:Company:0018", "props": {"date": "2025-06-01", "prev": "ent:Company:0008"}, "doc_id": "docB-0177"}
+{"fid": "F0179", "type": "WORKS_AT", "subj": "ent:Person:0084", "obj": "ent:Company:0009", "props": {"frm": "2022-07-01", "role": "구매 담당"}, "doc_id": "docB-0178"}
+{"fid": "F0180", "type": "MOVED_TO", "subj": "ent:Person:0084", "obj": "ent:Company:0019", "props": {"date": "2025-07-01", "prev": "ent:Company:0009"}, "doc_id": "docB-0179"}
+{"fid": "F0181", "type": "WORKS_AT", "subj": "ent:Person:0085", "obj": "ent:Company:0010", "props": {"frm": "2022-08-01", "role": "영업 담당"}, "doc_id": "docB-0180"}
+{"fid": "F0182", "type": "MOVED_TO", "subj": "ent:Person:0085", "obj": "ent:Company:0020", "props": {"date": "2025-08-01", "prev": "ent:Company:0010"}, "doc_id": "docB-0181"}
+{"fid": "F0183", "type": "WORKS_AT", "subj": "ent:Person:0086", "obj": "ent:Company:0011", "props": {"frm": "2022-09-01", "role": "영업 담당"}, "doc_id": "docB-0182"}
+{"fid": "F0184", "type": "MOVED_TO", "subj": "ent:Person:0086", "obj": "ent:Company:0021", "props": {"date": "2025-09-01", "prev": "ent:Company:0011"}, "doc_id": "docB-0183"}
+{"fid": "F0185", "type": "WORKS_AT", "subj": "ent:Person:0087", "obj": "ent:Company:0012", "props": {"frm": "2022-10-01", "role": "구매 담당"}, "doc_id": "docB-0184"}
+{"fid": "F0186", "type": "MOVED_TO", "subj": "ent:Person:0087", "obj": "ent:Company:0022", "props": {"date": "2025-10-01", "prev": "ent:Company:0012"}, "doc_id": "docB-0185"}
+{"fid": "F0187", "type": "WORKS_AT", "subj": "ent:Person:0088", "obj": "ent:Company:0013", "props": {"frm": "2022-11-01", "role": "영업 담당"}, "doc_id": "docB-0186"}
+{"fid": "F0188", "type": "MOVED_TO", "subj": "ent:Person:0088", "obj": "ent:Company:0023", "props": {"date": "2025-11-01", "prev": "ent:Company:0013"}, "doc_id": "docB-0187"}
+{"fid": "F0189", "type": "WORKS_AT", "subj": "ent:Person:0089", "obj": "ent:Company:0014", "props": {"frm": "2022-12-01", "role": "영업 담당"}, "doc_id": "docB-0188"}
+{"fid": "F0190", "type": "MOVED_TO", "subj": "ent:Person:0089", "obj": "ent:Company:0024", "props": {"date": "2025-12-01", "prev": "ent:Company:0014"}, "doc_id": "docB-0189"}
+{"fid": "F0191", "type": "WORKS_AT", "subj": "ent:Person:0090", "obj": "ent:Company:0018", "props": {"frm": "2022-01-01", "role": "품질 담당"}, "doc_id": "docB-0190"}
+{"fid": "F0192", "type": "WORKS_AT", "subj": "ent:Person:0091", "obj": "ent:Company:0019", "props": {"frm": "2022-02-01", "role": "영업 담당"}, "doc_id": "docB-0191"}
+{"fid": "F0193", "type": "WORKS_AT", "subj": "ent:Person:0092", "obj": "ent:Company:0020", "props": {"frm": "2022-03-01", "role": "품질 담당"}, "doc_id": "docB-0192"}
+{"fid": "F0194", "type": "WORKS_AT", "subj": "ent:Person:0093", "obj": "ent:Company:0021", "props": {"frm": "2022-04-01", "role": "구매 담당"}, "doc_id": "docB-0193"}
+{"fid": "F0195", "type": "WORKS_AT", "subj": "ent:Person:0094", "obj": "ent:Company:0022", "props": {"frm": "2022-05-01", "role": "품질 담당"}, "doc_id": "docB-0194"}
+{"fid": "F0196", "type": "WORKS_AT", "subj": "ent:Person:0095", "obj": "ent:Company:0023", "props": {"frm": "2022-06-01", "role": "품질 담당"}, "doc_id": "docB-0195"}
+{"fid": "F0197", "type": "WORKS_AT", "subj": "ent:Person:0096", "obj": "ent:Company:0024", "props": {"frm": "2022-07-01", "role": "구매 담당"}, "doc_id": "docB-0196"}
+{"fid": "F0198", "type": "WORKS_AT", "subj": "ent:Person:0097", "obj": "ent:Company:0025", "props": {"frm": "2022-08-01", "role": "품질 담당"}, "doc_id": "docB-0197"}
+{"fid": "F0199", "type": "WORKS_AT", "subj": "ent:Person:0098", "obj": "ent:Company:0000", "props": {"frm": "2022-09-01", "role": "구매 담당"}, "doc_id": "docB-0198"}
+{"fid": "F0200", "type": "WORKS_AT", "subj": "ent:Person:0099", "obj": "ent:Company:0001", "props": {"frm": "2022-10-01", "role": "영업 담당"}, "doc_id": "docB-0199"}
+{"fid": "F0201", "type": "WORKS_AT", "subj": "ent:Person:0100", "obj": "ent:Company:0002", "props": {"frm": "2022-11-01", "role": "영업 담당"}, "doc_id": "docB-0200"}
+{"fid": "F0202", "type": "WORKS_AT", "subj": "ent:Person:0101", "obj": "ent:Company:0003", "props": {"frm": "2022-12-01", "role": "품질 담당"}, "doc_id": "docB-0201"}
+{"fid": "F0203", "type": "WORKS_AT", "subj": "ent:Person:0102", "obj": "ent:Company:0004", "props": {"frm": "2022-01-01", "role": "영업 담당"}, "doc_id": "docB-0202"}
+{"fid": "F0204", "type": "WORKS_AT", "subj": "ent:Person:0103", "obj": "ent:Company:0005", "props": {"frm": "2022-02-01", "role": "구매 담당"}, "doc_id": "docB-0203"}
+{"fid": "F0205", "type": "WORKS_AT", "subj": "ent:Person:0104", "obj": "ent:Company:0006", "props": {"frm": "2022-03-01", "role": "영업 담당"}, "doc_id": "docB-0204"}
+{"fid": "F0206", "type": "WORKS_AT", "subj": "ent:Person:0105", "obj": "ent:Company:0007", "props": {"frm": "2022-04-01", "role": "구매 담당"}, "doc_id": "docB-0205"}
+{"fid": "F0207", "type": "WORKS_AT", "subj": "ent:Person:0106", "obj": "ent:Company:0008", "props": {"frm": "2022-05-01", "role": "영업 담당"}, "doc_id": "docB-0206"}
+{"fid": "F0208", "type": "WORKS_AT", "subj": "ent:Person:0107", "obj": "ent:Company:0009", "props": {"frm": "2022-06-01", "role": "품질 담당"}, "doc_id": "docB-0207"}
+{"fid": "F0209", "type": "WORKS_AT", "subj": "ent:Person:0108", "obj": "ent:Company:0010", "props": {"frm": "2022-07-01", "role": "영업 담당"}, "doc_id": "docB-0208"}
+{"fid": "F0210", "type": "WORKS_AT", "subj": "ent:Person:0109", "obj": "ent:Company:0011", "props": {"frm": "2022-08-01", "role": "영업 담당"}, "doc_id": "docB-0209"}
+{"fid": "F0211", "type": "WORKS_AT", "subj": "ent:Person:0110", "obj": "ent:Company:0012", "props": {"frm": "2022-09-01", "role": "영업 담당"}, "doc_id": "docB-0210"}
+{"fid": "F0212", "type": "WORKS_AT", "subj": "ent:Person:0111", "obj": "ent:Company:0013", "props": {"frm": "2022-10-01", "role": "구매 담당"}, "doc_id": "docB-0211"}
+{"fid": "F0213", "type": "WORKS_AT", "subj": "ent:Person:0112", "obj": "ent:Company:0014", "props": {"frm": "2022-11-01", "role": "구매 담당"}, "doc_id": "docB-0212"}
+{"fid": "F0214", "type": "WORKS_AT", "subj": "ent:Person:0113", "obj": "ent:Company:0018", "props": {"frm": "2022-12-01", "role": "품질 담당"}, "doc_id": "docB-0213"}
+{"fid": "F0215", "type": "WORKS_AT", "subj": "ent:Person:0114", "obj": "ent:Company:0019", "props": {"frm": "2022-01-01", "role": "구매 담당"}, "doc_id": "docB-0214"}
+{"fid": "F0216", "type": "WORKS_AT", "subj": "ent:Person:0115", "obj": "ent:Company:0020", "props": {"frm": "2022-02-01", "role": "영업 담당"}, "doc_id": "docB-0215"}
+{"fid": "F0217", "type": "WORKS_AT", "subj": "ent:Person:0116", "obj": "ent:Company:0021", "props": {"frm": "2022-03-01", "role": "영업 담당"}, "doc_id": "docB-0216"}
+{"fid": "F0218", "type": "WORKS_AT", "subj": "ent:Person:0117", "obj": "ent:Company:0022", "props": {"frm": "2022-04-01", "role": "구매 담당"}, "doc_id": "docB-0217"}
+{"fid": "F0219", "type": "LOT_OF", "subj": "ent:Lot:0118", "obj": "ent:Part:0036", "props": {"plant": "1공장", "date": "2026-01-03"}, "doc_id": "docB-0218"}
+{"fid": "F0220", "type": "DEFECT_FOUND", "subj": "ent:Lot:0118", "obj": "ent:Part:0036", "props": {"date": "2026-01-18", "symptom": "출력 저하"}, "doc_id": "docB-0219"}
+{"fid": "F0221", "type": "LOT_OF", "subj": "ent:Lot:0119", "obj": "ent:Part:0043", "props": {"plant": "2공장", "date": "2026-02-03"}, "doc_id": "docB-0220"}
+{"fid": "F0222", "type": "DEFECT_FOUND", "subj": "ent:Lot:0119", "obj": "ent:Part:0043", "props": {"date": "2026-02-18", "symptom": "절연 불량"}, "doc_id": "docB-0221"}
+{"fid": "F0223", "type": "LOT_OF", "subj": "ent:Lot:0120", "obj": "ent:Part:0050", "props": {"plant": "3공장", "date": "2026-03-03"}, "doc_id": "docB-0222"}
+{"fid": "F0224", "type": "DEFECT_FOUND", "subj": "ent:Lot:0120", "obj": "ent:Part:0050", "props": {"date": "2026-03-18", "symptom": "과열"}, "doc_id": "docB-0223"}
+{"fid": "F0225", "type": "LOT_OF", "subj": "ent:Lot:0121", "obj": "ent:Part:0057", "props": {"plant": "1공장", "date": "2026-04-03"}, "doc_id": "docB-0224"}
+{"fid": "F0226", "type": "DEFECT_FOUND", "subj": "ent:Lot:0121", "obj": "ent:Part:0057", "props": {"date": "2026-04-18", "symptom": "과열"}, "doc_id": "docB-0225"}
+{"fid": "F0227", "type": "LOT_OF", "subj": "ent:Lot:0122", "obj": "ent:Part:0064", "props": {"plant": "2공장", "date": "2026-05-03"}, "doc_id": "docB-0226"}
+{"fid": "F0228", "type": "DEFECT_FOUND", "subj": "ent:Lot:0122", "obj": "ent:Part:0064", "props": {"date": "2026-05-18", "symptom": "출력 저하"}, "doc_id": "docB-0227"}
+{"fid": "F0229", "type": "LOT_OF", "subj": "ent:Lot:0123", "obj": "ent:Part:0071", "props": {"plant": "3공장", "date": "2026-06-03"}, "doc_id": "docB-0228"}
+{"fid": "F0230", "type": "DEFECT_FOUND", "subj": "ent:Lot:0123", "obj": "ent:Part:0071", "props": {"date": "2026-06-18", "symptom": "출력 저하"}, "doc_id": "docB-0229"}
+{"fid": "F0231", "type": "LOT_OF", "subj": "ent:Lot:0124", "obj": "ent:Part:0042", "props": {"plant": "1공장", "date": "2026-07-03"}, "doc_id": "docB-0230"}
+{"fid": "F0232", "type": "DEFECT_FOUND", "subj": "ent:Lot:0124", "obj": "ent:Part:0042", "props": {"date": "2026-07-18", "symptom": "치수 불량"}, "doc_id": "docB-0231"}
+{"fid": "F0233", "type": "LOT_OF", "subj": "ent:Lot:0125", "obj": "ent:Part:0049", "props": {"plant": "2공장", "date": "2026-08-03"}, "doc_id": "docB-0232"}
+{"fid": "F0234", "type": "DEFECT_FOUND", "subj": "ent:Lot:0125", "obj": "ent:Part:0049", "props": {"date": "2026-08-18", "symptom": "과열"}, "doc_id": "docB-0233"}
+{"fid": "F0235", "type": "RECALLED", "subj": "ent:Product:0028", "obj": "ent:Lot:0118", "props": {"date": "2026-05-20"}, "doc_id": "docB-0234"}
+{"fid": "F0236", "type": "RECALLED", "subj": "ent:Product:0034", "obj": "ent:Lot:0118", "props": {"date": "2026-06-20"}, "doc_id": "docB-0235"}
+{"fid": "F0237", "type": "RECALLED", "subj": "ent:Product:0028", "obj": "ent:Lot:0119", "props": {"date": "2026-07-20"}, "doc_id": "docB-0236"}
+{"fid": "F0238", "type": "RECALLED", "subj": "ent:Product:0034", "obj": "ent:Lot:0119", "props": {"date": "2026-08-20"}, "doc_id": "docB-0237"}
+{"fid": "F0239", "type": "SIGNED", "subj": "ent:Company:0000", "obj": "ent:Company:0003", "props": {"date": "2024-01-07", "term": "공급 기본계약"}, "doc_id": "docB-0238"}
+{"fid": "F0240", "type": "TERMINATED", "subj": "ent:Company:0000", "obj": "ent:Company:0003", "props": {"date": "2026-01-25"}, "doc_id": "docB-0239"}
+{"fid": "F0241", "type": "SIGNED", "subj": "ent:Company:0001", "obj": "ent:Company:0006", "props": {"date": "2024-02-07", "term": "공급 기본계약"}, "doc_id": "docB-0240"}
+{"fid": "F0242", "type": "SIGNED", "subj": "ent:Company:0002", "obj": "ent:Company:0009", "props": {"date": "2024-03-07", "term": "공급 기본계약"}, "doc_id": "docB-0241"}
+{"fid": "F0243", "type": "SIGNED", "subj": "ent:Company:0000", "obj": "ent:Company:0012", "props": {"date": "2024-04-07", "term": "공급 기본계약"}, "doc_id": "docB-0242"}
+{"fid": "F0244", "type": "SIGNED", "subj": "ent:Company:0001", "obj": "ent:Company:0003", "props": {"date": "2024-05-07", "term": "공급 기본계약"}, "doc_id": "docB-0243"}
+{"fid": "F0245", "type": "TERMINATED", "subj": "ent:Company:0001", "obj": "ent:Company:0003", "props": {"date": "2026-05-25"}, "doc_id": "docB-0244"}
+{"fid": "F0246", "type": "SIGNED", "subj": "ent:Company:0002", "obj": "ent:Company:0006", "props": {"date": "2024-06-07", "term": "공급 기본계약"}, "doc_id": "docB-0245"}
+{"fid": "F0247", "type": "SIGNED", "subj": "ent:Company:0000", "obj": "ent:Company:0009", "props": {"date": "2024-07-07", "term": "공급 기본계약"}, "doc_id": "docB-0246"}
+{"fid": "F0248", "type": "SIGNED", "subj": "ent:Company:0001", "obj": "ent:Company:0012", "props": {"date": "2024-08-07", "term": "공급 기본계약"}, "doc_id": "docB-0247"}
+{"fid": "F0249", "type": "SIGNED", "subj": "ent:Company:0002", "obj": "ent:Company:0003", "props": {"date": "2024-09-07", "term": "공급 기본계약"}, "doc_id": "docB-0248"}
+{"fid": "F0250", "type": "TERMINATED", "subj": "ent:Company:0002", "obj": "ent:Company:0003", "props": {"date": "2026-03-25"}, "doc_id": "docB-0249"}
+{"fid": "F0251", "type": "SIGNED", "subj": "ent:Company:0000", "obj": "ent:Company:0006", "props": {"date": "2024-10-07", "term": "공급 기본계약"}, "doc_id": "docB-0250"}
+{"fid": "FV001", "type": "SUPPLIES", "subj": "ent:Company:0011", "obj": "ent:Component:9000", "props": {"since": "2023-09-01", "plant": "3공장"}, "doc_id": "docB-0078"}
+{"fid": "FV002", "type": "SUPPLIES", "subj": "ent:Company:0012", "obj": "ent:Component:9001", "props": {"since": "2023-10-01", "plant": "3공장"}, "doc_id": "docB-0064"}
+{"fid": "FV003", "type": "SUPPLIES", "subj": "ent:Company:0004", "obj": "ent:Component:9002", "props": {"since": "2023-02-01", "plant": "2공장"}, "doc_id": "docB-0086"}
+{"fid": "FV004", "type": "SUPPLIES", "subj": "ent:Company:0006", "obj": "ent:Component:9003", "props": {"since": "2023-04-01", "plant": "1공장"}, "doc_id": "docB-0058"}
+{"fid": "FV005", "type": "SUPPLIES", "subj": "ent:Person:0110", "obj": "ent:Part:0049", "props": {"date": "2025-03-01"}, "doc_id": ""}
+{"fid": "FV006", "type": "MADE_WITH", "subj": "ent:Material:0072", "obj": "ent:Material:0072", "props": {"date": "2025-03-01"}, "doc_id": ""}
+{"fid": "FV007", "type": "WORKS_AT", "subj": "ent:Company:0013", "obj": "ent:Person:0104", "props": {"date": "2025-03-01"}, "doc_id": ""}
+{"fid": "FV008", "type": "USES", "subj": "ent:Person:0082", "obj": "ent:Part:0051", "props": {"date": "2025-03-01"}, "doc_id": ""}
+{"fid": "FV009", "type": "CERTIFIED", "subj": "ent:Material:0072", "obj": "ent:CertBody:0027", "props": {"date": "2025-03-01"}, "doc_id": ""}
+{"fid": "FV010", "type": "SOURCES", "subj": "ent:Material:0072", "obj": "ent:Company:0018", "props": {"date": "2023-01-10"}, "doc_id": "docB-0008"}
+{"fid": "FV011", "type": "SOURCES", "subj": "ent:Material:0076", "obj": "ent:Company:0022", "props": {"date": "2023-05-10"}, "doc_id": "docB-0014"}
+{"fid": "FV012", "type": "SOURCES", "subj": "ent:Material:0075", "obj": "ent:Company:0021", "props": {"date": "2023-04-10"}, "doc_id": "docB-0012"}
+{"fid": "FV013", "type": "SOURCES", "subj": "ent:Material:0077", "obj": "ent:Company:0023", "props": {"date": "2023-06-10"}, "doc_id": "docB-0015"}
+{"fid": "FV014", "type": "RECALLED", "subj": "ent:Product:0034", "obj": "ent:Lot:0118", "props": {"date": "2019-01-01"}, "doc_id": "docB-0235"}
+{"fid": "FV015", "type": "MOVED_TO", "subj": "ent:Person:0088", "obj": "ent:Company:0023", "props": {"date": "2031-06-01", "prev": "ent:Company:0013"}, "doc_id": "docB-0187"}
+{"fid": "FV016", "type": "CERTIFIED", "subj": "ent:Material:0072", "obj": "ent:CertBody:0027", "props": {"date": "1899-12-31"}, "doc_id": ""}
+{"fid": "FV017", "type": "MOVED_TO", "subj": "ent:Person:0078", "obj": "ent:Company:0010", "props": {"date": "2031-01-01", "prev": "ent:Company:0003"}, "doc_id": "docB-0167"}
+{"fid": "FV018", "type": "CERTIFIED", "subj": "ent:Part:0060", "obj": "ent:CertBody:0026", "props": {"cert": "KC 안전인증", "date": "2030-02-30"}, "doc_id": "docB-0160"}
+{"fid": "FV019", "type": "LOT_OF", "subj": "ent:Lot:0118", "obj": "ent:Part:0051", "props": {"plant": "1공장", "date": "2026-01-03"}, "doc_id": "docB-0218"}
+{"fid": "FV020", "type": "LOT_OF", "subj": "ent:Lot:0118", "obj": "ent:Part:0045", "props": {"plant": "1공장", "date": "2026-01-03"}, "doc_id": "docB-0218"}
+{"fid": "FV021", "type": "MADE_BY", "subj": "ent:Product:0032", "obj": "ent:Company:0014", "props": {"date": "2024-05-05"}, "doc_id": "docB-0004"}

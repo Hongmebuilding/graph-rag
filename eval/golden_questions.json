@@ -1,0 +1,172 @@
+{
+  "description": "누리테크 코퍼스 Golden Question 세트. 실습 06에서 기준선 측정, 실습 21과 이후 평가에서 재사용한다. GQ-01~10은 원본 15개 코퍼스 기준으로 만들어진 고정 문항(2026-07-25)이며, 코퍼스를 58개 원문으로 확장(2026-07-26)한 뒤에도 그대로 재사용해 '코퍼스 규모만 커졌을 때' 효과를 비교한다. GQ-11~17은 확장 코퍼스에서 새로 조밀해진 엔티티 연결망(세진셀·신성모터스·대한디스플레이·코스모센서·로보스윕 S3·누리허브 등)을 근거로 신설한 문항으로, 신규 원문 간 또는 신규-기존 원문 간 멀티홉 연결이 실제로 그래프 검색기에 이점을 주는지 검증하기 위한 것이다.",
+  "questions": [
+    {
+      "id": "GQ-01",
+      "type": "single-hop",
+      "q": "로보스윕 S1의 배터리 모델명은 무엇인가?",
+      "expected": "NB-200 리튬이온 배터리 팩",
+      "evidence": [
+        "product-robosweep-s1"
+      ]
+    },
+    {
+      "id": "GQ-02",
+      "type": "single-hop",
+      "q": "에어웰 A1의 헤파필터 등급과 모델명은?",
+      "expected": "H13 등급, HF-13",
+      "evidence": [
+        "product-airwell-a1"
+      ]
+    },
+    {
+      "id": "GQ-03",
+      "type": "single-hop",
+      "q": "리콜 대상 로트 번호는 무엇인가?",
+      "expected": "HB-2601-B2",
+      "evidence": [
+        "incident-2026-03-battery",
+        "meeting-2026-04-recall"
+      ]
+    },
+    {
+      "id": "GQ-04",
+      "type": "multi-hop",
+      "q": "로보스윕 S1 과열 이슈의 원인이 된 배터리를 생산한 공장은 어디인가?",
+      "expected": "한빛에너지 2공장(천안)",
+      "evidence": [
+        "incident-2026-03-battery",
+        "supplier-hanbit-energy"
+      ]
+    },
+    {
+      "id": "GQ-05",
+      "type": "multi-hop",
+      "q": "리콜의 원인이 된 부품 공급사가 누리테크에 공급하는 다른 제품(부품)은 무엇인가?",
+      "expected": "NB-300 배터리 팩(로보스윕 S2용)",
+      "evidence": [
+        "incident-2026-03-battery",
+        "supplier-hanbit-energy",
+        "product-robosweep-s2"
+      ]
+    },
+    {
+      "id": "GQ-06",
+      "type": "multi-hop",
+      "q": "로보스윕 S1과 에어웰 A1이 공유하는 공급사는 어디이고 각각 무엇을 공급하는가?",
+      "expected": "클리어옵틱스. S1에는 LDS-3 라이다 렌즈 모듈, A1에는 PM2.5 레이저 센서",
+      "evidence": [
+        "product-robosweep-s1",
+        "product-airwell-a1",
+        "supplier-clearoptics"
+      ]
+    },
+    {
+      "id": "GQ-07",
+      "type": "multi-hop",
+      "q": "S2 출시가 지연된 이유를 의사결정 근거 문서와 함께 설명하라.",
+      "expected": "2026년 4월 2일 회의에서 NB-300 조기 전환 결정, 약 3주 지연",
+      "evidence": [
+        "meeting-2026-04-recall",
+        "product-robosweep-s2"
+      ]
+    },
+    {
+      "id": "GQ-08",
+      "type": "global",
+      "q": "2026년 상반기 누리테크의 공급망 관련 주요 리스크를 요약하라.",
+      "expected": "배터리 과열 리콜, 단독 공급 품목(배터리, 라이다 렌즈, 모터), 세진셀 승인 지연 리스크",
+      "evidence": [
+        "quarterly-report-2026q1",
+        "policy-procurement",
+        "roadmap-2026"
+      ]
+    },
+    {
+      "id": "GQ-09",
+      "type": "global",
+      "q": "이중 소싱 정책의 적용 대상과 2026년 1월 기준 예외 품목을 정리하라.",
+      "expected": "A급 부품 대상. 예외: 배터리(한빛에너지), LDS-3 렌즈(클리어옵틱스), DM 모터(대성정밀)",
+      "evidence": [
+        "policy-procurement"
+      ]
+    },
+    {
+      "id": "GQ-10",
+      "type": "unanswerable",
+      "q": "로보스윕 S1의 미국 시장 판매 가격은 얼마인가?",
+      "expected": "코퍼스에 근거 없음. 모른다고 답해야 한다.",
+      "evidence": []
+    },
+    {
+      "id": "GQ-11",
+      "type": "multi-hop",
+      "q": "로보스윕 S3에 채택될 신형 배터리(NB-400)는 어느 두 공급사의 이중 소싱을 전제로 개발되고 있으며, 그중 나중에 합류한 공급사는 최종 양산 승인을 언제 받았는가?",
+      "expected": "한빛에너지와 세진셀의 이중 소싱. 세진셀은 2026년 6월 30일 최종 양산 승인 감사를 통과했다",
+      "evidence": [
+        "product-robosweep-s3",
+        "audit-sejincell-2026-06-final"
+      ]
+    },
+    {
+      "id": "GQ-12",
+      "type": "multi-hop",
+      "q": "에어웰 A1의 헤파필터 조기 막힘 CS가 급증한 원인으로 지목되는 공급사는 어디이며, 이 공급사는 어느 지역에 위치하는가?",
+      "expected": "퓨어필터텍, 광주",
+      "evidence": [
+        "incident-2026-06-filter",
+        "supplier-purefiltertech"
+      ]
+    },
+    {
+      "id": "GQ-13",
+      "type": "multi-hop",
+      "q": "누리홈 앱에 2026년 4분기 목표로 예정된 기기진단리포트·리콜알림 기능은, 신규 출시 예정인 어떤 플랫폼 하드웨어 제품 화면에서 확인할 수 있도록 검토되고 있는가?",
+      "expected": "누리허브(NuriHub)",
+      "evidence": [
+        "roadmap-2026",
+        "product-nurihub"
+      ]
+    },
+    {
+      "id": "GQ-14",
+      "type": "multi-hop",
+      "q": "대성정밀의 모터 단독 공급 리스크에 대응해 평가가 시작된 이중 소싱 후보 공급사는 어디이며, 2026년 10월 회의 기준 이 평가는 어느 단계까지 진행되었는가?",
+      "expected": "신성모터스. 서류 심사 단계",
+      "evidence": [
+        "compliance-audit-2026",
+        "meeting-2026-10-dual-sourcing-review"
+      ]
+    },
+    {
+      "id": "GQ-15",
+      "type": "multi-hop",
+      "q": "2026년 10월 이중소싱 정책 반기 리뷰 회의에서 라이다 렌즈 대체 공급사 조사를 누가 언제까지 진행하기로 했으며, 이 라이다 렌즈는 어떤 제품들에 탑재되는가?",
+      "expected": "구매팀이 12월 말까지 진행. LDS-3 라이다 렌즈는 로보스윕 S1과 S2에 탑재된다",
+      "evidence": [
+        "meeting-2026-10-dual-sourcing-review",
+        "product-robosweep-s1",
+        "product-robosweep-s2"
+      ]
+    },
+    {
+      "id": "GQ-16",
+      "type": "global",
+      "q": "2026년 하반기~2027년 출시(예정) 신제품 라인업과 각 제품의 핵심 공급사를 정리하라.",
+      "expected": "에어웰 A2(퓨어필터텍 필터, 클리어옵틱스 PM2.5 센서 2세대), 미스트웨이브 H1(코스모센서 온습도 센서), 누리허브(대한디스플레이 터치 패널), 로보스윕 S3(한빛에너지+세진셀 NB-400 배터리)",
+      "evidence": [
+        "mid-term-strategy-2027-2029",
+        "product-airwell-a2",
+        "product-mistwave-h1",
+        "product-nurihub"
+      ]
+    },
+    {
+      "id": "GQ-17",
+      "type": "unanswerable",
+      "q": "세진셀이 공급하는 배터리의 유럽 CE 인증 취득일은 언제인가?",
+      "expected": "코퍼스에 근거 없음. 모른다고 답해야 한다.",
+      "evidence": []
+    }
+  ]
+}

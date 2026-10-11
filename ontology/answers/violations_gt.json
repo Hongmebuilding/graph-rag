@@ -1,0 +1,221 @@
+{
+ "total": 25,
+ "violations": [
+  {
+   "vid": "V-SPLIT-1",
+   "kind": "SPLIT",
+   "entity_ids": [
+    "ent:Part:0056",
+    "ent:Component:9000"
+   ],
+   "fact_ids": [
+    "FV001"
+   ],
+   "detail": "LZ-120 레이저렌즈이 Part와 Component 두 노드로 분열 (비표준 타입 Component)"
+  },
+  {
+   "vid": "V-SPLIT-2",
+   "kind": "SPLIT",
+   "entity_ids": [
+    "ent:Part:0045",
+    "ent:Component:9001"
+   ],
+   "fact_ids": [
+    "FV002"
+   ],
+   "detail": "BT-130 배터리셀이 Part와 Component 두 노드로 분열 (비표준 타입 Component)"
+  },
+  {
+   "vid": "V-SPLIT-3",
+   "kind": "SPLIT",
+   "entity_ids": [
+    "ent:Part:0061",
+    "ent:Component:9002"
+   ],
+   "fact_ids": [
+    "FV003"
+   ],
+   "detail": "GB-110 기어박스이 Part와 Component 두 노드로 분열 (비표준 타입 Component)"
+  },
+  {
+   "vid": "V-SPLIT-4",
+   "kind": "SPLIT",
+   "entity_ids": [
+    "ent:Part:0039",
+    "ent:Component:9003"
+   ],
+   "fact_ids": [
+    "FV004"
+   ],
+   "detail": "PM-130 구동모터이 Part와 Component 두 노드로 분열 (비표준 타입 Component)"
+  },
+  {
+   "vid": "V-DOMAIN-1",
+   "kind": "DOMAIN",
+   "fact_ids": [
+    "FV005"
+   ],
+   "detail": "사람이 부품의 발주처로 등록됨 (SUPPLIES domain은 Company)"
+  },
+  {
+   "vid": "V-DOMAIN-2",
+   "kind": "DOMAIN",
+   "fact_ids": [
+    "FV006"
+   ],
+   "detail": "소재가 소재로 만들어짐 (MADE_WITH domain은 Part)"
+  },
+  {
+   "vid": "V-DOMAIN-3",
+   "kind": "DOMAIN",
+   "fact_ids": [
+    "FV007"
+   ],
+   "detail": "회사가 사람 소속으로 등록됨 (WORKS_AT은 Person->Company)"
+  },
+  {
+   "vid": "V-DOMAIN-4",
+   "kind": "DOMAIN",
+   "fact_ids": [
+    "FV008"
+   ],
+   "detail": "사람이 부품표에 부품을 등재 (USES domain은 Product)"
+  },
+  {
+   "vid": "V-DOMAIN-5",
+   "kind": "DOMAIN",
+   "fact_ids": [
+    "FV009"
+   ],
+   "detail": "소재가 인증 취득 주체로 등록됨 (CERTIFIED domain은 Part)"
+  },
+  {
+   "vid": "V-DIR-1",
+   "kind": "DIRECTION",
+   "fact_ids": [
+    "FV010"
+   ],
+   "detail": "SOURCES 방향 역전 (니켈합금 NA -> 청람소재)"
+  },
+  {
+   "vid": "V-DIR-2",
+   "kind": "DIRECTION",
+   "fact_ids": [
+    "FV011"
+   ],
+   "detail": "SOURCES 방향 역전 (구리합금 CU -> 남강폴리머)"
+  },
+  {
+   "vid": "V-DIR-3",
+   "kind": "DIRECTION",
+   "fact_ids": [
+    "FV012"
+   ],
+   "detail": "SOURCES 방향 역전 (카본시트 CS -> 고려파우더)"
+  },
+  {
+   "vid": "V-DIR-4",
+   "kind": "DIRECTION",
+   "fact_ids": [
+    "FV013"
+   ],
+   "detail": "SOURCES 방향 역전 (폴리머수지 PR -> 동해리튬)"
+  },
+  {
+   "vid": "V-TEMP-1",
+   "kind": "TEMPORAL",
+   "fact_ids": [
+    "FV014"
+   ],
+   "detail": "리콜 결정일이 로트 발행(2026) 이전"
+  },
+  {
+   "vid": "V-TEMP-2",
+   "kind": "TEMPORAL",
+   "fact_ids": [
+    "FV015"
+   ],
+   "detail": "이직일이 미래(2031)"
+  },
+  {
+   "vid": "V-TEMP-3",
+   "kind": "TEMPORAL",
+   "fact_ids": [
+    "FV016"
+   ],
+   "detail": "인증 취득일이 1899년"
+  },
+  {
+   "vid": "V-TEMP-4",
+   "kind": "TEMPORAL",
+   "fact_ids": [
+    "FV017"
+   ],
+   "detail": "이직일이 미래(2031)"
+  },
+  {
+   "vid": "V-TEMP-5",
+   "kind": "TEMPORAL",
+   "fact_ids": [
+    "FV018"
+   ],
+   "detail": "존재하지 않는 날짜(2월 30일)"
+  },
+  {
+   "vid": "V-CARD-1",
+   "kind": "CARDINALITY",
+   "fact_ids": [
+    "FV019"
+   ],
+   "detail": "한 로트가 서로 다른 부품 2개의 생산 로트로 등록됨 (로트당 부품 1개 규칙)"
+  },
+  {
+   "vid": "V-CARD-2",
+   "kind": "CARDINALITY",
+   "fact_ids": [
+    "FV020"
+   ],
+   "detail": "한 로트가 서로 다른 부품 2개의 생산 로트로 등록됨 (로트당 부품 1개 규칙)"
+  },
+  {
+   "vid": "V-CARD-3",
+   "kind": "CARDINALITY",
+   "fact_ids": [
+    "FV021"
+   ],
+   "detail": "한 제품에 제조사 2개가 등록됨 (제품당 제조사 1개 규칙)"
+  },
+  {
+   "vid": "V-ORPH-1",
+   "kind": "ORPHAN",
+   "entity_ids": [
+    "ent:Company:9500"
+   ],
+   "detail": "무연고상사1: 어떤 사실에도 등장하지 않는 고아 엔티티"
+  },
+  {
+   "vid": "V-ORPH-2",
+   "kind": "ORPHAN",
+   "entity_ids": [
+    "ent:Company:9501"
+   ],
+   "detail": "무연고상사2: 어떤 사실에도 등장하지 않는 고아 엔티티"
+  },
+  {
+   "vid": "V-ORPH-3",
+   "kind": "ORPHAN",
+   "entity_ids": [
+    "ent:Company:9502"
+   ],
+   "detail": "무연고상사3: 어떤 사실에도 등장하지 않는 고아 엔티티"
+  },
+  {
+   "vid": "V-ORPH-4",
+   "kind": "ORPHAN",
+   "entity_ids": [
+    "ent:Company:9503"
+   ],
+   "detail": "무연고상사4: 어떤 사실에도 등장하지 않는 고아 엔티티"
+  }
+ ]
+}

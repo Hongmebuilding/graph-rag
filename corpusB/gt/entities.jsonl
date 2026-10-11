@@ -1,0 +1,126 @@
+{"id": "ent:Company:0000", "type": "Company", "name": "가온모빌리티", "aliases": []}
+{"id": "ent:Company:0001", "type": "Company", "name": "두레로보틱스", "aliases": []}
+{"id": "ent:Company:0002", "type": "Company", "name": "미르에어텍", "aliases": []}
+{"id": "ent:Company:0003", "type": "Company", "name": "대한정밀", "aliases": []}
+{"id": "ent:Company:0004", "type": "Company", "name": "빛고을정밀", "aliases": []}
+{"id": "ent:Company:0005", "type": "Company", "name": "서진일렉", "aliases": []}
+{"id": "ent:Company:0006", "type": "Company", "name": "누리셀", "aliases": []}
+{"id": "ent:Company:0007", "type": "Company", "name": "한올센서", "aliases": []}
+{"id": "ent:Company:0008", "type": "Company", "name": "금호옵틱", "aliases": []}
+{"id": "ent:Company:0009", "type": "Company", "name": "동방모터", "aliases": []}
+{"id": "ent:Company:0010", "type": "Company", "name": "세경배터리", "aliases": []}
+{"id": "ent:Company:0011", "type": "Company", "name": "우신기전", "aliases": []}
+{"id": "ent:Company:0012", "type": "Company", "name": "태백정공", "aliases": []}
+{"id": "ent:Company:0013", "type": "Company", "name": "해솔전장", "aliases": []}
+{"id": "ent:Company:0014", "type": "Company", "name": "은파테크", "aliases": []}
+{"id": "ent:Company:0015", "type": "Company", "name": "대한정공", "aliases": []}
+{"id": "ent:Company:0016", "type": "Company", "name": "서진일렉트로", "aliases": []}
+{"id": "ent:Company:0017", "type": "Company", "name": "세경베터리스", "aliases": []}
+{"id": "ent:Company:0018", "type": "Company", "name": "청람소재", "aliases": []}
+{"id": "ent:Company:0019", "type": "Company", "name": "백산케미칼", "aliases": []}
+{"id": "ent:Company:0020", "type": "Company", "name": "유천메탈", "aliases": []}
+{"id": "ent:Company:0021", "type": "Company", "name": "고려파우더", "aliases": []}
+{"id": "ent:Company:0022", "type": "Company", "name": "남강폴리머", "aliases": []}
+{"id": "ent:Company:0023", "type": "Company", "name": "동해리튬", "aliases": []}
+{"id": "ent:Company:0024", "type": "Company", "name": "설악카본", "aliases": []}
+{"id": "ent:Company:0025", "type": "Company", "name": "진주글라스", "aliases": []}
+{"id": "ent:CertBody:0026", "type": "CertBody", "name": "한국안전인증원", "aliases": []}
+{"id": "ent:CertBody:0027", "type": "CertBody", "name": "글로벌규격시험소", "aliases": []}
+{"id": "ent:Product:0028", "type": "Product", "name": "가온봇 G1", "aliases": []}
+{"id": "ent:Product:0029", "type": "Product", "name": "가온봇 G2", "aliases": []}
+{"id": "ent:Product:0030", "type": "Product", "name": "가온윙 W1", "aliases": []}
+{"id": "ent:Product:0031", "type": "Product", "name": "두레암 R1", "aliases": []}
+{"id": "ent:Product:0032", "type": "Product", "name": "두레암 R2", "aliases": []}
+{"id": "ent:Product:0033", "type": "Product", "name": "두레카트 C1", "aliases": []}
+{"id": "ent:Product:0034", "type": "Product", "name": "미르드론 D1", "aliases": []}
+{"id": "ent:Product:0035", "type": "Product", "name": "미르드론 D2", "aliases": []}
+{"id": "ent:Part:0036", "type": "Part", "name": "PM-100 구동모터", "aliases": ["PM-100"]}
+{"id": "ent:Part:0037", "type": "Part", "name": "PM-110 구동모터", "aliases": ["PM-110"]}
+{"id": "ent:Part:0038", "type": "Part", "name": "PM-120 구동모터", "aliases": ["PM-120"]}
+{"id": "ent:Part:0039", "type": "Part", "name": "PM-130 구동모터", "aliases": ["PM-130"]}
+{"id": "ent:Part:0040", "type": "Part", "name": "PM-141 구동모터", "aliases": ["PM-141"]}
+{"id": "ent:Part:0041", "type": "Part", "name": "PM-150 구동모터", "aliases": ["PM-150"]}
+{"id": "ent:Part:0042", "type": "Part", "name": "BT-100 배터리셀", "aliases": ["BT-100"]}
+{"id": "ent:Part:0043", "type": "Part", "name": "BT-110 배터리셀", "aliases": ["BT-110"]}
+{"id": "ent:Part:0044", "type": "Part", "name": "BT-120 배터리셀", "aliases": ["BT-120"]}
+{"id": "ent:Part:0045", "type": "Part", "name": "BT-130 배터리셀", "aliases": ["BT-130"]}
+{"id": "ent:Part:0046", "type": "Part", "name": "BT-141 배터리셀", "aliases": ["BT-141"]}
+{"id": "ent:Part:0047", "type": "Part", "name": "BT-150 배터리셀", "aliases": ["BT-150"]}
+{"id": "ent:Part:0048", "type": "Part", "name": "SN-100 거리센서", "aliases": ["SN-100"]}
+{"id": "ent:Part:0049", "type": "Part", "name": "SN-110 거리센서", "aliases": ["SN-110"]}
+{"id": "ent:Part:0050", "type": "Part", "name": "SN-120 거리센서", "aliases": ["SN-120"]}
+{"id": "ent:Part:0051", "type": "Part", "name": "SN-130 거리센서", "aliases": ["SN-130"]}
+{"id": "ent:Part:0052", "type": "Part", "name": "SN-141 거리센서", "aliases": ["SN-141"]}
+{"id": "ent:Part:0053", "type": "Part", "name": "SN-150 거리센서", "aliases": ["SN-150"]}
+{"id": "ent:Part:0054", "type": "Part", "name": "LZ-100 레이저렌즈", "aliases": ["LZ-100"]}
+{"id": "ent:Part:0055", "type": "Part", "name": "LZ-110 레이저렌즈", "aliases": ["LZ-110"]}
+{"id": "ent:Part:0056", "type": "Part", "name": "LZ-120 레이저렌즈", "aliases": ["LZ-120"]}
+{"id": "ent:Part:0057", "type": "Part", "name": "LZ-130 레이저렌즈", "aliases": ["LZ-130"]}
+{"id": "ent:Part:0058", "type": "Part", "name": "LZ-141 레이저렌즈", "aliases": ["LZ-141"]}
+{"id": "ent:Part:0059", "type": "Part", "name": "LZ-150 레이저렌즈", "aliases": ["LZ-150"]}
+{"id": "ent:Part:0060", "type": "Part", "name": "GB-100 기어박스", "aliases": ["GB-100"]}
+{"id": "ent:Part:0061", "type": "Part", "name": "GB-110 기어박스", "aliases": ["GB-110"]}
+{"id": "ent:Part:0062", "type": "Part", "name": "GB-120 기어박스", "aliases": ["GB-120"]}
+{"id": "ent:Part:0063", "type": "Part", "name": "GB-130 기어박스", "aliases": ["GB-130"]}
+{"id": "ent:Part:0064", "type": "Part", "name": "GB-141 기어박스", "aliases": ["GB-141"]}
+{"id": "ent:Part:0065", "type": "Part", "name": "GB-150 기어박스", "aliases": ["GB-150"]}
+{"id": "ent:Part:0066", "type": "Part", "name": "CB-100 제어보드", "aliases": ["CB-100"]}
+{"id": "ent:Part:0067", "type": "Part", "name": "CB-110 제어보드", "aliases": ["CB-110"]}
+{"id": "ent:Part:0068", "type": "Part", "name": "CB-120 제어보드", "aliases": ["CB-120"]}
+{"id": "ent:Part:0069", "type": "Part", "name": "CB-130 제어보드", "aliases": ["CB-130"]}
+{"id": "ent:Part:0070", "type": "Part", "name": "CB-141 제어보드", "aliases": ["CB-141"]}
+{"id": "ent:Part:0071", "type": "Part", "name": "CB-150 제어보드", "aliases": ["CB-150"]}
+{"id": "ent:Material:0072", "type": "Material", "name": "니켈합금 NA", "aliases": []}
+{"id": "ent:Material:0073", "type": "Material", "name": "리튬산화물 LX", "aliases": []}
+{"id": "ent:Material:0074", "type": "Material", "name": "광학유리 OG", "aliases": []}
+{"id": "ent:Material:0075", "type": "Material", "name": "카본시트 CS", "aliases": []}
+{"id": "ent:Material:0076", "type": "Material", "name": "구리합금 CU", "aliases": []}
+{"id": "ent:Material:0077", "type": "Material", "name": "폴리머수지 PR", "aliases": []}
+{"id": "ent:Person:0078", "type": "Person", "name": "오수아", "aliases": []}
+{"id": "ent:Person:0079", "type": "Person", "name": "장하윤", "aliases": []}
+{"id": "ent:Person:0080", "type": "Person", "name": "권채원", "aliases": []}
+{"id": "ent:Person:0081", "type": "Person", "name": "최건우", "aliases": []}
+{"id": "ent:Person:0082", "type": "Person", "name": "박채원", "aliases": []}
+{"id": "ent:Person:0083", "type": "Person", "name": "임세라", "aliases": []}
+{"id": "ent:Person:0084", "type": "Person", "name": "오지안", "aliases": []}
+{"id": "ent:Person:0085", "type": "Person", "name": "조미르", "aliases": []}
+{"id": "ent:Person:0086", "type": "Person", "name": "박하윤", "aliases": []}
+{"id": "ent:Person:0087", "type": "Person", "name": "윤율", "aliases": []}
+{"id": "ent:Person:0088", "type": "Person", "name": "박태윤", "aliases": []}
+{"id": "ent:Person:0089", "type": "Person", "name": "장시우", "aliases": []}
+{"id": "ent:Person:0090", "type": "Person", "name": "오도현", "aliases": []}
+{"id": "ent:Person:0091", "type": "Person", "name": "조동하", "aliases": []}
+{"id": "ent:Person:0092", "type": "Person", "name": "장미르", "aliases": []}
+{"id": "ent:Person:0093", "type": "Person", "name": "박현우", "aliases": []}
+{"id": "ent:Person:0094", "type": "Person", "name": "강채원", "aliases": []}
+{"id": "ent:Person:0095", "type": "Person", "name": "윤도현", "aliases": []}
+{"id": "ent:Person:0096", "type": "Person", "name": "권건우", "aliases": []}
+{"id": "ent:Person:0097", "type": "Person", "name": "장세라", "aliases": []}
+{"id": "ent:Person:0098", "type": "Person", "name": "윤동하", "aliases": []}
+{"id": "ent:Person:0099", "type": "Person", "name": "한하윤", "aliases": []}
+{"id": "ent:Person:0100", "type": "Person", "name": "윤하윤", "aliases": []}
+{"id": "ent:Person:0101", "type": "Person", "name": "한건우", "aliases": []}
+{"id": "ent:Person:0102", "type": "Person", "name": "장지호", "aliases": []}
+{"id": "ent:Person:0103", "type": "Person", "name": "조지안", "aliases": []}
+{"id": "ent:Person:0104", "type": "Person", "name": "한예린", "aliases": []}
+{"id": "ent:Person:0105", "type": "Person", "name": "황건우", "aliases": []}
+{"id": "ent:Person:0106", "type": "Person", "name": "권소영", "aliases": []}
+{"id": "ent:Person:0107", "type": "Person", "name": "장소영", "aliases": []}
+{"id": "ent:Person:0108", "type": "Person", "name": "윤별", "aliases": []}
+{"id": "ent:Person:0109", "type": "Person", "name": "장별", "aliases": []}
+{"id": "ent:Person:0110", "type": "Person", "name": "신지안", "aliases": []}
+{"id": "ent:Person:0111", "type": "Person", "name": "서수아", "aliases": []}
+{"id": "ent:Person:0112", "type": "Person", "name": "윤소영", "aliases": []}
+{"id": "ent:Person:0113", "type": "Person", "name": "안연우", "aliases": []}
+{"id": "ent:Person:0114", "type": "Person", "name": "최소영", "aliases": []}
+{"id": "ent:Person:0115", "type": "Person", "name": "강동하", "aliases": []}
+{"id": "ent:Person:0116", "type": "Person", "name": "신현우", "aliases": []}
+{"id": "ent:Person:0117", "type": "Person", "name": "박건우", "aliases": []}
+{"id": "ent:Lot:0118", "type": "Lot", "name": "로트 LT-2600", "aliases": []}
+{"id": "ent:Lot:0119", "type": "Lot", "name": "로트 LT-2601", "aliases": []}
+{"id": "ent:Lot:0120", "type": "Lot", "name": "로트 LT-2602", "aliases": []}
+{"id": "ent:Lot:0121", "type": "Lot", "name": "로트 LT-2603", "aliases": []}
+{"id": "ent:Lot:0122", "type": "Lot", "name": "로트 LT-2604", "aliases": []}
+{"id": "ent:Lot:0123", "type": "Lot", "name": "로트 LT-2605", "aliases": []}
+{"id": "ent:Lot:0124", "type": "Lot", "name": "로트 LT-2606", "aliases": []}
+{"id": "ent:Lot:0125", "type": "Lot", "name": "로트 LT-2607", "aliases": []}

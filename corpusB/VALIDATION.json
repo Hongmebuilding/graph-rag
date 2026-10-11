@@ -1,0 +1,18 @@
+{
+  "violations": [],
+  "stats": {
+    "entities": 126,
+    "facts": 251,
+    "docs": 271,
+    "questions": 42,
+    "q_by_type": {
+      "path": 10,
+      "comparison": 8,
+      "temporal": 8,
+      "enumeration": 8,
+      "aggregation": 4,
+      "global": 2,
+      "unanswerable": 2
+    }
+  }
+}
