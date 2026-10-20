@@ -28,3 +28,10 @@
   - `quarterly-report-2026q3.txt`(2026-10-12), `meeting-2026-10-dual-sourcing-review.txt`(2026-10-14), `contract-hanbit-energy-renewal.txt`(2026-10-22), `quarterly-report-2026q4.txt`(2027-01-20)
 - `contract-hanbit-energy-renewal.txt`는 원문에 열람 제한, 구매팀 외 공유 금지로 적혀 있다. 등급(CONFIDENTIAL 등) 표기는 원문에 없어 추정하지 않았다. 이 메모의 내용은 `sources/contract-hanbit-energy-renewal.md`에만 상세히 적었다. 다른 문서에는 관련 문서 링크로 걸었고, `concepts/document-access-levels.md`에만 열람 제한 문서라는 사실을 한 줄 적었다.
 - `corpus/raw_pdf/nb200_spec.pdf`는 이번 입력(`corpus/raw/`)이 아니어서 반영하지 않았다.
+
+## [2026-10-20] create | concepts/parser-routing 추가
+
+- 입력: `data/lab03_report.md` (실습 03 pypdf vs docling 비교 결과), MinerU·RAG-Anything·LightRAG 저장소 README와 `pyproject.toml` (2026-10-20 확인)
+- 생성: `concepts/parser-routing.md` (`status: draft`). 문서 유형별 1차 파서와 대안, GPU 없는 노트북 제약, MinerU·RAG-Anything 도입 조건을 정리했다.
+- 수정: `index.md`(문서 수 78개, concepts 3개, 항목 추가), `entities/nb-200.md`(관련 문서에 `[[parser-routing]]` 추가, `updated` 2026-10-20). 고아 문서 린트를 통과시키려고 링크를 추가했다.
+- 주의: 실측은 스펙시트 PDF 1건뿐이다. 깨끗한 텍스트·수식 논문 행은 미검증이고, 스캔본은 현재 OCR 엔진이 없어 처리 불가임을 확인했다.

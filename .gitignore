@@ -8,3 +8,6 @@ data/
 # Python
 __pycache__/
 .venv/
+
+# 모델 캐시 (실습 03 docling, HF_HOME)
+.cache/

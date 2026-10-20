@@ -1,7 +1,7 @@
 # 누리테크 LLM Wiki 색인
 
 - 생성일: 2026-10-11
-- 문서 수: 77개 (entities 17 · concepts 2 · sources 58), 전부 `status: draft`
+- 문서 수: 78개 (entities 17 · concepts 3 · sources 58), 전부 `status: draft`
 - 작성 규칙: [TEMPLATE.md](TEMPLATE.md)
 - 각 줄 끝의 괄호는 한 줄 설명의 근거 원문 파일명이다. 원문은 `corpus/raw/`에 있다.
 
@@ -36,8 +36,9 @@
 - [[jeong-minjae]] — 정민재: 품질보증팀장으로 IR-2026-031과 IR-2026-058 필드 장애 보고서를 담당한다 (org-people.txt, incident-2026-03-battery.txt, incident-2026-06-filter.txt).
 - [[han-soyoung]] — 한소영: 구매팀장으로 공급사 계약과 이중 소싱 정책 운영, 세진셀·신성모터스 평가를 맡는다 (org-people.txt, audit-sejincell-2026-06-final.txt, supplier-sinsung-motors.txt).
 
-## Concepts (2)
+## Concepts (3)
 
+- [[parser-routing]] — 문서 파서 라우팅 기준: 문서 유형별 1차 파서와 대안, GPU 없는 노트북 제약, MinerU·RAG-Anything 도입 조건 (data/lab03_report.md).
 - [[dual-sourcing]] — 이중 소싱 정책(PP-07): A급 부품은 승인 공급사 둘 이상을 확보해야 하며 2026년 1월 이행률은 60%였다 (policy-procurement.txt, quarterly-report-2026q1.txt).
 - [[document-access-levels]] — 문서 접근 등급(SEC-03): PUBLIC·INTERNAL·CONFIDENTIAL·RESTRICTED 4등급이며 AI 검색은 권한 범위 안의 문서만 대상으로 한다 (policy-security.txt).
 
